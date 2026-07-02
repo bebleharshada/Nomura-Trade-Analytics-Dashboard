@@ -216,10 +216,10 @@ Break Resolution Analysis
 
 ⚠️ This dashboard is created entirely using dummy/simulated data for educational and portfolio demonstration purposes only.
 
-No real Nomura confidential data has been used.
-Company branding is used only for learning and visualization purposes.
-The project is not affiliated with or endorsed by Nomura.
-Intended solely to showcase Power BI and financial analytics skills.
+**No real Nomura confidential data has been used.**
+**Company branding is used only for learning and visualization purposes.**
+**The project is not affiliated with or endorsed by Nomura.**
+**Intended solely to showcase Power BI and financial analytics skills.**
 
 **14. Project Outcome:**
 
